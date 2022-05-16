@@ -20,6 +20,6 @@ What actually happened when you followed the "How to reproduce" steps.
 **Problem**
 What is the actual issue (if it is not 100% obvious from the description above).
 
-**Notes **
+**Notes**
 - Browser/OS/etc.
 - Suggestion.
